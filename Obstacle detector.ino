@@ -50,7 +50,7 @@ void loop() {
 - USB Cable
 
 ## Project Video
-https://youtu.be/UrymY0G8GrU?si=B0PSrwH61UtRX5oV
+<https://youtu.be/UrymY0G8GrU?si=B0PSrwH61UtRX5oV>
 
 ## Created By
 Girish Patil
